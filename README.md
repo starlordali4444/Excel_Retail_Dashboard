@@ -113,3 +113,8 @@ By answering critical business questions, this dashboard acts as a one-stop tool
 2. Open the **Excel file** and explore the pre-built dashboard.
 3. Use slicers to filter data dynamically across different dimensions like **category, region, segment**, and more.
 4. Explore charts to get insights on KPIs, category-wise performance, customer behavior, and sales trends.
+
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/c95932aa-bd41-4d0a-8a2f-d3bc1d8db939)
+
